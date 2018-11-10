@@ -1,0 +1,48 @@
+﻿like,reason_no,flavor,topping,store,reason,sugar,ice,weekly_consume,area
+yes,,oolong milk tea,boba,kungfu tea,boba is good,0.5,no ice,5,Emory
+yes,,oolong milk tea,"boba, herbal jelly",kungfu tea,various,0.25,no ice,5,Emory
+yes,,taro milk tea,foam,tea house,tasty,1,no ice,3,Emory
+yes,,wow milk,boba,kungfu tea,various,0.5,no ice,10,Emory
+yes,,brown sugar tea,boba,teatop,various,0.25,no ice,5,Emory
+yes,,oolong milk tea,"boba, tea jelly",tea house,foam is good,0.5,no ice,10,Emory
+yes,,milk green tea,"boba, herbal jelly",quickly,cheap,0.5,no ice,5,Emory
+yes,,oolong milk tea,boba,quickly,free topping,0.75,no ice,3,Emory
+yes,,oolong milk tea,"boba, tea jelly",teatop,various,0.25,no ice,3,Emory
+no,too sweat,,,,,,,,Emory
+yes,,oolong milk tea,"boba, coconut jelly",teatop,various,0,no ice,3,Emory
+yes,,taro milk tea,no,kungfu tea,various,0,no ice,2,Emory
+yes,,brown sugar tea,no,teatop,convenient,1,no ice,5,Emory
+yes,,jasmine milk tea,boba,kungfu tea,taste good,0.25,no ice,2,Emory
+no,unhealthy,,,,,,,,Emory
+yes,,oolong milk tea,aloe vera,kungfu tea,new varieties,0.25,no ice,5,Emory
+yes,,oolong milk tea,no,teatop,sweet,0.5,no ice,5,Emory
+no,too sweat,,,,,,,,
+yes,,taro milk tea,no,tea house,not sweat,0.5,no ice,5,Emory
+yes,,oolong milk tea,boba,kungfu tea,,0.25,no ice,10,Emory
+yes,,wow milk,oreo,kungfu tea,various,0.75,light,5,Emory
+yes,,milk green tea,"boba, pudding",teatop,convenient,0.5,no ice,5,Emory
+yes,,milk green tea,aloe vera,tea house,,0.75,light,5,Emory
+yes,,thai tea,no,tea house,advocacy effect,1,no ice,5,Emory
+yes,,milk green tea,aloe vera,tea house,tasty,0.5,half,3,Emory
+yes,,oolong milk tea,"aloe vera, boba",tea house,special,0.5,no ice,5,Emory
+yes,,milk foam tea,boba,teatop,tea is good,1,light,15,Emory
+yes,,milk green tea,herbal jelly,kungfu tea,foam is good,0.5,no ice,20,Emory
+yes,,oolong milk tea,boba,all,tasty,0.25,light,5,Wake Forest
+no,unconvenient,,,,,,,,Wake Forest
+no,unconvenient,,,,,,,,Wake Forest
+yes,,black tea,herbal jelly,all,tasty,0.25,light,3,Wake Forest
+yes,,milk tea,boba,coco,cheap,0,regular,2,Wake Forest
+yes,,oolong milk tea,boba,kungfu tea,tasty,0.25,no ice,10,UCSD
+yes,,milk red tea,"boba, herbal jelly",sharetea,various,0.5,regular,12,UCSD
+yes,,mocha,taro,coco,tasty,0,light,10,UCSD
+yes,,milk red tea,pudding,85c,various,0.5,regular,10,UCSD
+yes,,milk tea,"boba, foam",happy lemon,foma is good,1,light,3,UCSD
+yes,,milk tea,no,tea bar,tea is good,0.25,no ice,5,UCSD
+yes,,oolong milk tea,boba,85c,tasty,0.5,regular,10,UCSD
+yes,,milk tea,boba,coco,tasty,0.5,no ice,3,UBC
+yes,,milk tea,foam,coco,various,0.75,regular,20,UBC
+yes,,jasmine milk tea,foam,coco,various,0.75,light,5,UBC
+yes,,milk tea,boba,nest,tea is good,0.5,no ice,5,UBC
+yes,,milk tea,no,coco,famous,0,light,3,UBC
+yes,,taro milk tea,no,,convenient,0.5,no ice,5,UBC
+yes,,jasmine milk tea,boba,happy lemon,boba is good,0.5,no ice,10,UBC
